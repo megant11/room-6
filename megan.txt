@@ -1,0 +1,9 @@
+Sebuah contoh adalah suatu demonstrasi dengan tujuan memberitahu seseorang tentang bagaimana sebuah tugas atau pekerjaan dilakukan. Dalam memberi contoh, sering dipakai singkatan e.g.
+
+Di Internet, terdapat sejumlah nama domain yang dibuat khusus untuk dipakai dalam dokumentasi sebagai contoh, yaitu:
+
+example.com
+example.net
+example.org
+example.edu
+example
